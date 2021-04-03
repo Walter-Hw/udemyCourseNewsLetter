@@ -1,2 +1,3 @@
 ## This is a project with some implementation of MailChimp API.
-### Udemy Course
+### Finished my first Heroku App and it works! Thanks for any help!
+#### Udemy Course
